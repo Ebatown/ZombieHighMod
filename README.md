@@ -20,7 +20,7 @@ Game mod includes:
     
     monster groups overhauled
     
-  professions: added 30+ professions, not only in the high school senarios but also others
+  professions: added 300+ professions, not only in the high school senarios but also others
   
 
   items: from clothes to electronics, a lot of items are added. Categories would be:
